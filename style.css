@@ -1,0 +1,45 @@
+*{
+  background:pink;
+  font:Arial,segoe UI;
+  margin:0%;
+  padding:0%;
+  text-align: center;
+}
+
+nav{
+  background-color: white;
+}
+
+table{
+  border: solid;
+  border-collapse:collapse;
+  margin: 60px;
+  text-align:center;
+  width:50%
+}
+
+table th{
+  background:white;
+  padding: 10px;
+}
+
+table td{
+  padding: 8px
+    
+}
+
+table th, table td{
+  border-collapse: collapse;
+}
+
+#home{
+  margin-top: 20px;
+}
+
+#products{
+  margin-top: 20px;
+}
+
+#contact us{
+  margin-bottom: 20px;
+}
