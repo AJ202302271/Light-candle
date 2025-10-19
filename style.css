@@ -43,3 +43,8 @@ table th, table td{
 #contact us{
   margin-bottom: 20px;
 }
+
+table img{
+  height:100px;
+  width:100px;
+}
